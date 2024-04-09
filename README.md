@@ -1,1 +1,1 @@
-"# gcp_ip" 
+# gcp_ip
